@@ -1,6 +1,6 @@
 # Breakout-GameBreakout Game - Capstone Project
 
-A classic Breakout game built with Python and Pygame as the final project for the course.
+A classic Breakout game built with Python and Pygame as the final project for college course.
 Features:
     Paddle & Ball Physics – Control the paddle to bounce the ball.
     Brick Breaking – Clear all bricks to win.
